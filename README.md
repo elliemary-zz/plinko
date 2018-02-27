@@ -1,0 +1,2 @@
+# plinko
+Quick coding challenge
